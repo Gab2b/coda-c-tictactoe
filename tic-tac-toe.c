@@ -1,4 +1,4 @@
-#include "main.h"
+#include "tic-tac-toe.h"
 
 void presentation()
 {

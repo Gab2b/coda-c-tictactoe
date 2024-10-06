@@ -1,4 +1,4 @@
-#include "main.h"
+#include "tic-tac-toe.h"
 
 int main(int argc, char const *argv[])
 {
