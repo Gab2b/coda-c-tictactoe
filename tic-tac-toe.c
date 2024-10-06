@@ -13,7 +13,7 @@ int traduction_tableau(int nombre, char tableau[3][3])
 {
     if (nombre < 0 || nombre > 8)
     {
-        printf("Votre nombre est incorrect. Entrez un chiffre entre 1 et 9.\n");
+        printf("Votre nombre est incorrect. Entrez un chiffre entre 0 et 8.\n");
         return 0;
     }
     else
