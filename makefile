@@ -1,5 +1,3 @@
-# Makefile
-
 NAME = tictactoe
 
 SRCS = main.c \

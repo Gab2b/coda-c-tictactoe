@@ -139,7 +139,7 @@ void lancer_jeu()
 
             if (check_win(plateau))
             {
-                game = 0;
+                game=0;
                 printf("\n\033[0;32m★★ - Bien joué vous avez gagné !- ★★\033[0m\n\n");
                 break;
             }
@@ -150,14 +150,14 @@ void lancer_jeu()
 
             if (check_win(plateau))
             {
-                game = 0;
+                game=0;
                 printf("\n\033[0;31mL'adversaire a gagné !\033[0m\n\n");
                 break;
             }
             
             else if (check_draw(plateau))
             {
-                game = 0;
+                game=0;
                 printf("\n- Malheureusement c'est une égalité ! -\n\n");
                 break;
             }

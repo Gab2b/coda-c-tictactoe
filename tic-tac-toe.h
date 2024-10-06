@@ -12,4 +12,4 @@ int check_win(char tableau[3][3]);
 int check_draw(char tableau[3][3]);
 void lancer_jeu();
 
-#endif // MAIN_H
+#endif
