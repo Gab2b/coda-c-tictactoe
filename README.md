@@ -19,7 +19,7 @@ Bienvenue dans **TicTacToe**, un simple jeu du morpion réalisé en C. Ce projet
 
 ## Utilisation
 
-Pour lancer le jeu, exécutez la commande suivante :
+Pour lancer le jeu, exécutez les commande suivante :
 
 ```bash
 make all
